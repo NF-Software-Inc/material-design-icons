@@ -1,0 +1,20 @@
+# ==================================================================================================
+# GENERAL SETTINGS
+# ==================================================================================================
+
+type: IconLibrary
+name: MaterialSymbolsOutlined
+displayName: Material Symbols Outlined
+description: An icon pack containing the Google Material Symbols font items.
+version: 1.0.0
+author: NF Software Inc.
+copyright: Copyright © 2025 Google
+
+# ==================================================================================================
+# LOUPEDECK MARKETPLACE SETTINGS
+# ==================================================================================================
+
+license: Apache License 2.0
+licenseUrl: https://github.com/google/material-design-icons/blob/master/LICENSE
+homePageUrl: https://nfsoftware.ca
+supportPageUrl: mailto:support@nfsoftware.ca
